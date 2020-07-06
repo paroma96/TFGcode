@@ -24,5 +24,5 @@ _This code will allow you to set up the LoRaWAN network's nodes on ESP32-LoRa-ba
 ## Authors ✒️
 
 
-* **Pablo Rodríguez Martín** - *Trabajo Inicial* - [Paroma96](https://github.com/paroma96)
+* **Pablo Rodríguez Martín** - *Main work* - [Paroma96](https://github.com/paroma96)
 
