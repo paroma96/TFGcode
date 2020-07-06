@@ -144,7 +144,7 @@ void onEvent (ev_t ev) {
 void do_send(osjob_t* j){
     sent = 0;
     prime = analogRead(pinHumidity);
-    prime2 = map(prime, 388, 1173, 0, 100); // 16 -> 0.1V  ,  3360 -> 2.8V
+    prime2 = map(prime, 0, 1319, 0, 100); // 16 -> 0.1V  ,  3360 -> 2.8V
     humidity = constrain(prime2, 0, 100);
     Serial.println(prime);
     //prime = random(0, 52);
