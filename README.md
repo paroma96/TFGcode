@@ -1,6 +1,6 @@
 
 
-# Low-cost sensor based on coils for soil moisture monitoring in agriculture environments. Design of a sensor speck and data network (code only)
+# Low-cost sensor based on coils for soil moisture monitoring in agriculture environments. Design of a mote and data network (code only)
 
 _Code designed for  BSc. Telecommunications Engineering Final Project_
 
