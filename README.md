@@ -14,6 +14,8 @@ _This code will allow you to set up the LoRaWAN network's nodes on ESP32-LoRa-ba
 ### Prerequisites 📋
 
 _ESP32 LoRa nodes (2 at least)_
+_TTN/LoRaServer running_
+_Moisture sensor based on two coils_
 
 
 
