@@ -243,7 +243,7 @@ struct wpas {
 wpas wpa[] = {
   { "" , "" },							// Reserved for WiFi Manager
   //{ "WIFI_NETWORK_1", "PASSWORD_1" },
-  { "WIFI_NETWORK_1", "PASSWORD_1" }
+  { "WIFI_NETWORK_2", "PASSWORD_2" }
 };
 #else
 // Place outside version control to avoid the risk of commiting it to github ;-)
