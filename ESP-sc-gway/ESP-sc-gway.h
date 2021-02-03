@@ -242,8 +242,8 @@ struct wpas {
 #if 1
 wpas wpa[] = {
   { "" , "" },							// Reserved for WiFi Manager
-  //{ "Los_RodriguezPLUS-EXT", "09585528370" },
-  { "Los_Rodriguez", "09585528370" }
+  //{ "WIFI_NETWORK_1", "PASSWORD_1" },
+  { "WIFI_NETWORK_1", "PASSWORD_1" }
 };
 #else
 // Place outside version control to avoid the risk of commiting it to github ;-)
